@@ -1,6 +1,6 @@
 # Hello Org Monorepo
 
-2 apps used to run our not-for-profit: Hello Org.
+Apps used to run our not-for-profit: Hello Org.
 
 ## Concepts
 
