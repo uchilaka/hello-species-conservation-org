@@ -10,7 +10,7 @@ The concepts demonstrated here will be organized according to the checklist belo
 
 - [ ] Functional vs. Class components
 - [ ] Functional component dynamic example
-- [ ] Class component dynamic example 
+- [ ] Class component dynamic example
 - [ ] Common React lifecycle hooks & JS events
 
 ## HTML/CSS
